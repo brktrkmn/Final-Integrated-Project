@@ -7,15 +7,16 @@ body
  	font-family: 'Lora', serif;
 }
 
-li, a 
-{
- 	text-decoration: none;
+a:link, a:visited 
+{ 
+ 	text-decoration:none;
+ 	color: #D93527 	
 }
 
-a:visited 
+a:hover, a:active 
 { 
- 	text-decoration: none; 
- 	color: #D93527;
+	text-decoration:none;
+	color: #D93527 
 }
 
 h3
