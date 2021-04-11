@@ -33,9 +33,16 @@ body
 	text-decoration: none;
 }
 
-li, a 
-{
-	text-decoration: none;
+a:link, a:visited 
+{ 
+ 	text-decoration:none;
+ 	color: #D93527 	
+}
+
+a:hover, a:active 
+{ 
+	text-decoration:none;
+	color: #D93527 
 }
 
 h3

@@ -17,12 +17,14 @@
 
 a:link, a:visited 
 { 
- 	text-decoration:none; 	
+ 	text-decoration:none;
+ 	color: #D93527 	
 }
 
 a:hover, a:active 
 { 
-	text-decoration:none; 
+	text-decoration:none;
+	color: #D93527 
 }
 body 
 {
