@@ -1,8 +1,11 @@
 ## Project Name:
 Final Integrated Project
 
+# Created by:
+Burak Turkmen - Fanshawe College Interactive Media Design Student
+
 # Project Description:
-A website consisting of three pages as according to Fanshawe College Interactive Media Design Final Integrated Project guidelines.
+A website consisting of three pages, prepared according to Fanshawe College Interactive Media Design Final Integrated Project guidelines.
   with validated html and css codes, Three pages website with all html, css files and images, logo design.
 
 # Name of the web page
@@ -14,14 +17,19 @@ The website is about a shop, selling best quality coffee beans from all over the
 # Website consists of:
 - Homepage
 - Shoping page
-- Page about coffee making tips
+- Coffee making tips
 - Contact Page
 
 # Webpage includes
 
 - 10 original photos edited with photoshop.
-- Original logo.
+- Original website logo.
+- Custom made coffee bean packages and logos for packages.
 - Description and price information of the coffee beans.
+
+# Project Roadmap
+Detailed steps can be found here:
+https://docs.google.com/document/d/1JZRpFITqdLFvZMrvvl7WRziOfnUD1afIPJGi97Wq-bE/edit?usp=sharing
 
 
 # MIT License
